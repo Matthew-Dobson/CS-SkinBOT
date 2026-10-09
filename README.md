@@ -1,3 +1,5 @@
+## Counter-Strike Skin Marketplace Monitor
+
 CS
 Skin Purchasing Bot
 This Python bot automates the process of purchasing CS
